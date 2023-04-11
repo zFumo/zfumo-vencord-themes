@@ -26,8 +26,8 @@
   --fluent-accent-lightness: 42%;
   --fluent-text-on-accent-color: 0, 0, 0;
   --fluent-acrylic-background: url(https://cdn.discordapp.com/attachments/900397768844132386/1095336139960889396/Tofu_Desktop_-_Red.png);
-  --fluent-acrylic-background-blur: 24px;
-  --fluent-acrylic-background-dimness: 75%;
+  --fluent-acrylic-background-blur: 5px;
+  --fluent-acrylic-background-dimness: 50%;
   --fluent-acrylic-background-saturate: 140%;
   --fluent-guilds-icon-size: 24px;
 }
